@@ -1,4 +1,4 @@
-**StudyLoop - Discord Bot**
+🤖**StudyLoop - Discord Bot**
 
 *StudyLoop is an interactive Discord bot designed to help individuals and study groups learn efficiently through flashcards. Users can create, view, and quiz themselves on flashcards—either manually or by uploading PDFs of study material. The bot is fully functional, persistent, and hosted online for 24/7 access.*
 
