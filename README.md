@@ -16,7 +16,7 @@
 🛠️ **Technologies Used**
 
 - Python 3.x
-- discord.api
+- Discord.api
 - PyMuPDF (fitz) for PDF parsing
 - JSON for local flashcard storage
 - Render.com for hosting
